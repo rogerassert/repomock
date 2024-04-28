@@ -1,5 +1,17 @@
 {
     "auth": {
         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-    }
+    },
+    "devices": [
+        {
+            "id": 1,
+            "uuid": "18cbb868-d0d8-400e-bd89-1d0d74b855cb",
+            "name": "Device Name"
+        },
+        {
+            "id": 2,
+            "uuid": "18cbb868-d0d8-400e-bd89-1d0d74b855cb",
+            "name": "Device Name 2"
+        }
+    ]
 }
