@@ -1,0 +1,74 @@
+{
+  "auth": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  },
+  "devices": [
+    {
+      "id": 1,
+      "uuid": "18cbb868-d0d8-400e-bd89-1d0d74b855cb",
+      "name": "Device Name"
+    },
+    {
+      "id": 2,
+      "uuid": "18cbb868-d0d8-400e-bd89-1d0d74b855cb",
+      "name": "Device Name 2"
+    },
+  ],
+  "measurements": [
+    {
+      "device_id": 1,
+      "created_at_device": "2024-04-12 23:00:11.000",
+      "created_at_middleware": "2024-04-12 23:00:22.000",
+      "created_at": "2024-04-12 23:00:33.000",
+      "measurement_type": {
+        "id": 1,
+        "name": "phase_a_rms_voltage"
+      },
+      "value": "220.1"
+    },
+    {
+      "device_id": 1,
+      "created_at_device": "2024-04-12 23:00:11.000",
+      "created_at_middleware": "2024-04-12 23:00:22.000",
+      "created_at": "2024-04-12 23:00:33.000",
+      "measurement_type": {
+        "id": 2,
+        "name": "phase_b_rms_voltage"
+      },
+      "value": "220.1"
+    },
+    {
+      "device_id": 1,
+      "created_at_device": "2024-04-12 23:00:11.000",
+      "created_at_middleware": "2024-04-12 23:00:22.000",
+      "created_at": "2024-04-12 23:00:33.000",
+      "measurement_type": {
+        "id": 3,
+        "name": "phase_c_rms_voltage"
+      },
+      "value": "220.1"
+    },
+    {
+      "device_id": 1,
+      "created_at_device": "2024-04-12 23:00:11.000",
+      "created_at_middleware": "2024-04-12 23:00:22.000",
+      "created_at": "2024-04-12 23:00:33.000",
+      "measurement_type": {
+        "id": 4,
+        "name": "lid_status"
+      },
+      "value": "0"
+    },
+    {
+      "device_id": 1,
+      "created_at_device": "2024-04-12 23:00:11.000",
+      "created_at_middleware": "2024-04-12 23:00:22.000",
+      "created_at": "2024-04-12 23:00:33.000",
+      "measurement_type": {
+        "id": 5,
+        "name": "location"
+      },
+      "value": "-7.135928861174651, -34.87395181516336"
+    }
+  ],
+}
