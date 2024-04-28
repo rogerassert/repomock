@@ -16,6 +16,7 @@
     ],
     "measurements": [
         {
+            "id": 1,
             "device_id": 1,
             "created_at_device": "2024-04-12 23:00:11.000",
             "created_at_middleware": "2024-04-12 23:00:22.000",
@@ -27,6 +28,7 @@
             "value": "220.1"
         },
         {
+            "id": 2,
             "device_id": 1,
             "created_at_device": "2024-04-12 23:00:11.000",
             "created_at_middleware": "2024-04-12 23:00:22.000",
@@ -38,6 +40,7 @@
             "value": "220.1"
         },
         {
+            "id": 3,
             "device_id": 1,
             "created_at_device": "2024-04-12 23:00:11.000",
             "created_at_middleware": "2024-04-12 23:00:22.000",
@@ -49,6 +52,7 @@
             "value": "220.1"
         },
         {
+            "id": 4,
             "device_id": 1,
             "created_at_device": "2024-04-12 23:00:11.000",
             "created_at_middleware": "2024-04-12 23:00:22.000",
@@ -60,6 +64,7 @@
             "value": "0"
         },
         {
+            "id": 5,
             "device_id": 1,
             "created_at_device": "2024-04-12 23:00:11.000",
             "created_at_middleware": "2024-04-12 23:00:22.000",
